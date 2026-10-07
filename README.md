@@ -85,20 +85,49 @@ My primary development experience revolves around **Java, Spring Boot, PHP, and 
 
 ---
 
-## 📈 GitHub Statistics
+---
 
-<div align="center">
+### 🔥 GitHub Streak
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arumugam28&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Arumugam28&theme=github-dark-blue&hide_border=true"
+    alt="Arumugam28 GitHub Streak"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arumugam28&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+---
 
-</div>
+### 📫 Connect With Me
 
-<br>
+<p align="center">
 
-<div align="center">
+  <a href="https://www.linkedin.com/in/arumugam-b-760090255">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<img src="https://streak-stats.demolab.com?user=Arumugam28&theme=github-dark-blue&hide_border=true" />
+  <a href="mailto:arumugajai447@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
 
-</div>
+  <a href="https://portfolio-arumugam28.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://github.com/Arumugam28">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+</p>
