@@ -98,36 +98,35 @@ My primary development experience revolves around **Java, Spring Boot, PHP, and 
 
 ---
 
-### 📫 Connect With Me
+---
+
+## 📫 Connect With Me
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/arumugam-b-760090255">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/arumugam-b-760090255">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-  <a href="mailto:arumugajai447@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
+<a href="mailto:arumugajai447@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send%20me%20an%20email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-  <a href="https://portfolio-arumugam28.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
+<a href="https://portfolio-arumugam28.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20my%20work-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-  <a href="https://github.com/Arumugam28">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://github.com/Arumugam28">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
+</p>
+
+<p align="center">
+  <sub>
+    💼 Software Development &nbsp; • &nbsp;
+    ☕ Java & Spring Boot &nbsp; • &nbsp;
+    🐘 PHP & Laravel &nbsp; • &nbsp;
+    🔗 REST APIs
+  </sub>
 </p>
